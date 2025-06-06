@@ -1,0 +1,52 @@
+:root {
+  --color1: #7e4400;
+  --color2: #1f4fb9;
+}
+body {
+  background-color: #f1c40f;
+  padding: 20%;
+  text-align: center;
+  width: 400px;
+}
+h1 {
+  color: var(--color1);
+  font-size: 2.3em
+}
+.container {
+  background-color: white;
+  border-radius: 10px;
+  padding: 10px;
+  font-size: 1.2em;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+input {
+  flex-direction: column;
+  border: none;
+  border-bottom: 3px solid var(--color2);
+  margin: 10px;
+  width: 250px;
+  height: 30px;
+}
+button {
+  background-color: var(--color2);
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  width: 90px;
+}
+.definition {
+  background-color: var(--color1);
+  color: white;
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 20px;
+  font-size: 1.2em;
+  display: flex;
+  flex-direction: row;
+  text-align: left;
+}
+.definition p {
+  margin: 0;
+}
