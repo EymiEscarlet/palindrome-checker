@@ -6,7 +6,8 @@ body {
   background-color: #f1c40f;
   padding: 20%;
   text-align: center;
-  width: 400px;
+  --width: 400px;
+  margin: auto;
 }
 h1 {
   color: var(--color1);
