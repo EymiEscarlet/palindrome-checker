@@ -1,5 +1,5 @@
 # 🔁 Palidrome Checker
-This is a simple project that checks whether a word or phrase is a **palindrome**.A palindrome is a word or phrase that can be read the same way forwards and backwards, ignoring punctuation, case, and spacing.
+This is a simple project that checks whether a word or phrase is a **palindrome**. A palindrome is a word or phrase that can be read the same way forwards and backwards, ignoring punctuation, case, and spacing.
 
 ## 🛠️  Technologies Used
 - HTML, CSS, JavaScript
