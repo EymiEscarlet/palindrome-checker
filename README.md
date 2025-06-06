@@ -5,7 +5,7 @@ This is a simple project that checks whether a word or phrase is a **palindrome*
 - HTML, CSS, JavaScript
 
 ## 📸 Live Demo
-
+https://eymiescarlet.github.io/palindrome-checker/
 
 ## 💡 How It Works
 1. The user enters a word or phrase.
